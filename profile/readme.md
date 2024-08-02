@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/mev-snc/open-depot/main/mockups/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/mev-snc/open-depot/main/mockups/banner.jpg">
 
 ---
 
